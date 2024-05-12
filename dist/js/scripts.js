@@ -1,6 +1,6 @@
 /*!
-* Start Bootstrap - Personal v1.0.1 (https://startbootstrap.com/template-overviews/personal)
-* Copyright 2013-2023 Start Bootstrap
+* SUKRITI MAHAJAN - Personal v1.0.1 (https://startbootstrap.com/template-overviews/personal)
+* Copyright 2013-2024 SUKRITI MAHAJAN
 * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-personal/blob/master/LICENSE)
 */
 // This file is intentionally blank
